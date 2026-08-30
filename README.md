@@ -130,6 +130,15 @@ A evolução do projeto deve considerar princípios aplicáveis de privacidade e
 
 ## 👨‍💻 Autor
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
 
 Projeto técnico em desenvolvimento, originado de uma demanda real e transformado em uma solução prática de gestão de presença.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/APP_Chamada
